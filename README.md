@@ -11,3 +11,6 @@ Smart Suggestions: Context-aware chat prompts that change as you progress throug
 🛠️ Technical StackFrontend: HTML5, CSS3, and Vanilla JavaScript.  Styling: Modern Glassmorphism UI with a custom "Space Grotesk" and "Outfit" typography stack.  AI Integration: Designed to interface with Claude AI (Anthropic) via API, with a robust offline fallback logic for consistent performance. 
 Responsive Design: Fully optimized for mobile with touch-target optimization and fluid layouts
 Note: This project is made for  the hackathon presented by codebrew IN COLLEGE,
+#v0.3.0-worker-system
+#release/dev
+#arch/microservices
